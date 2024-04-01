@@ -23,3 +23,9 @@ tmp.*
 *.so
 build
 *.jpg
+
+
+# Our stuff
+P3Data
+*.zip
+*.png
